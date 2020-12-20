@@ -25,6 +25,12 @@ Normal Text
 
 ~Crossed Out Text~
 
+`Code Text`
+
+```python
+print("This is coded to a specific language.")
+```
+
 [Link](https://github.com/)
 
 ![Image](https://www.alimentarium.org/en/system/files/thumbnails/image/AL027-01_pomme_de_terre_0.jpg)
@@ -36,4 +42,4 @@ Normal Text
  
 |This|is|a|Table|
 |---|---|---|---|
-|1|2|3|4
+|1|2|3|4|
